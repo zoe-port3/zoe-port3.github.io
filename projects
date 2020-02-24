@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Ngaru journey</title>  
+    <style>
+      a {
+        text-align: center;
+        color: black;
+        font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+        }
+     img {border-radius: 50%;}
+    #grad1 {
+      background-color: grey; /* For browsers that do not support gradients */
+      background-image: linear-gradient(white, grey); /* Standard syntax (must be last) */
+    }
+    </style>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body> 
+   <div class="header">
+    <a href="https://port3.org">Port3</a>
+     <div class="header-right">
+        <a href="/index.html">Home</a>
+        <a href="/projects.html">Projects</a>
+        <a href="/journey.html">Journey</a>
+     </div>
+    </div>
+    <div id="grad1">
+      <div>
+        <h1>Projects</h1>
+        <h2>Martin</h2>
+        <p>An awesome opportunity for our students to participate in deep machine learning, AI and gathering data.  Thank you Martin! </p>
+        <br>
+        <p>This is Ngaru's group github page and below are links to their individual github pages</p>
+        <ul>
+        <li><a href="https://george-port3.github.io/">George</a></li>
+        <li><a href="https://dazz1313.github.io/">Daryle</a></li>
+        <li><a href="https://zoe-port3.github.io/">Zoe</a></li>       
+        </ul>
+        <br>
+      </div>
+  </div>
+</body>
+</html>
