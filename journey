@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>whetu journey</title>
+  <style>
+    #grad1 {
+      background-color: grey; /* For browsers that do not support gradients */
+      background-image: linear-gradient(white, grey); /* Standard syntax (must be last) */
+    }
+  </style>
+  <LINK href="styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body> 
+   <div class="header">
+    <a href="https://port3.org">Port3</a>
+     <div class="header-right">
+        <a href="/index.html">Home</a>
+        <a href="/projects.html">Projects</a>
+        <a href="/journey.html">Journey</a>
+     </div>
+    </div>
+ <div>
+  <div id="grad1">
+   <div class="grid-container">
+     <div class="item2">
+       <h2>Introducing</h2>
+       <p>Ngaru... </p><br>
+       <h4>our second cohort of 10x 16-24 year old youth choosing to take this journey toghether into their future pathways.</h4>
+   </div>
+  <div class="item3">
+    <h1>Ngaru's Journey</h1>
+   <iframe 
+  src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/portthree/videos/373416683324485/"
+  width="560" height="315"
+  style="border:none;overflow:hidden" 
+  scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true">
+   </iframe>
+    <br>
+    <h3>Week 3</h3>
+   <iframe 
+  src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/portthree/videos/372469040354333/"
+  width="560" height="315"
+  style="border:none;overflow:hidden" 
+  scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true">
+   </iframe>
+    <br>
+    <h3>Week 4-6</h3>
+   <iframe 
+  src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/portthree/videos/2279493305696497/"
+  width="560" height="315"
+  style="border:none;overflow:hidden" 
+  scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true">
+   </iframe>
+    <br>
+    <h3>Home run to Graduation</h3>
+   <iframe 
+  src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/portthree/videos/528452961313842/"
+  width="560" height="315"
+  style="border:none;overflow:hidden" 
+  scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true">
+   </iframe>
+  </div>  
+  <div class="item4">
+    <h2>Week 1-4</h2>
+    <p>So many achievements in 2 weeks!</p>
+    <ul>
+      <li>Sharing life experiences</li>
+      <li>Health & Wellbeing</li>
+      <li>NZQA credits</li>
+      <li>Drivers Licence</li>
+      <li>Tech opportunities - Yoobee & Media Design School</li>
+      <li>Growing together</li>
+     <br>
+      <h2>Week 5</h2>
+      <p>This week saw our whanau sharing life skills and wisdom with their youth.</p>
+      <ul>
+        <li>More Health and Wellbeing with some of our whanau joining in</li>
+        <li>Driver Training</li>
+        <li>Future Pathway Plans created</li>
+        <li>Github Profiles</li>
+      <br>
+      <br>
+   </div>
+  </div>
+ </div>
+</body> 
+</html>
