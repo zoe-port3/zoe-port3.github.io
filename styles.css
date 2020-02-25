@@ -88,8 +88,8 @@ li {
 }
 
 .button:hover {
-  background-color: white;
-  color: blue;
+  background-color: red;
+  color: black;
 }
 
 .header {
