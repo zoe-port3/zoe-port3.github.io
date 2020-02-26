@@ -1,8 +1,8 @@
 * {
   margin:0px;
   padding:0px;
-  font: 60px:
-    font-family: 'Dancing Script',monospace;
+  font: 60px;
+  font-family: 'Dancing Script',monospace;
 }
 
 body {
@@ -34,38 +34,44 @@ img {
 h1 {
   text-align: center;
   color: white;
-  font: 60px font-family: 'Dancing Script',monospace;
+  font: 60px;
+  font-family: 'Dancing Script',monospace;
 }
 
 h2 {
   text-align: center;
   color: white;
   font-weight: bold;
-  font: 30px font-family: 'Dancing Script',monospace;
+  font: 30px;
+  font-family: 'Dancing Script',monospace;
 }
 
 h3 {
   text-align: center;
   color: grey;
-  font: 30px font-family: 'Dancing Script',monospace;
+  font: 30px;
+  font-family: 'Dancing Script',monospace;
 }
 
 h4 {
   text-align: center;
   color: black;
-  font: 20px font-family: 'Dancing Script',monospace;
+  font: 20px;
+  font-family: 'Dancing Script',monospace;
 }
 
 p {
   text-align: center;
   color: white;
-  font: 30px font-family: 'Dancing Script',monospace;
+  font: 30px;
+  font-family: 'Dancing Script',monospace;
 }
 
 li {
   text-align: center;
   color: black;
-  font: 20px font-family: 'Dancing Script',monospace;
+  font: 20px;
+  font-family: 'Dancing Script',monospace;
 }
 
 .center {
