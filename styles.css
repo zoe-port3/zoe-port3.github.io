@@ -33,38 +33,38 @@ img {
 h1 {
   text-align: center;
   color: red;
-  font: 60px font-family: 'Dancing Script', ;monospace;
+  font: 60px font-family: 'Dancing Script',;monospace;
 }
 
 h2 {
   text-align: center;
   color: black;
   font-weight: bold;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px font-family: 'Dancing Script',monospace;
 }
 
 h3 {
   text-align: center;
   color: grey;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px font-family: 'Dancing Script',monospace;
 }
 
 h4 {
   text-align: center;
   color: black;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 20px font-family: 'Dancing Script',monospace;
 }
 
 p {
   text-align: center;
   color: black;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px  ,monospace;
 }
 
 li {
   text-align: center;
   color: black;
-  font: 20px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 20px font-family: 'Dancing Script'",monospace;
 }
 
 .center {
