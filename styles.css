@@ -94,7 +94,7 @@ li {
 
 .header {
   overflow: hidden;
-  background-color: grey;
+  background-color: red;
   background: rgba(0, 0, 0, 0.5);
   padding: 20px 10px;
 }
