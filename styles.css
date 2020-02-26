@@ -58,13 +58,13 @@ h4 {
 p {
   text-align: center;
   color: black;
-  font: 30px  ,monospace;
+  font: 30px font-family: 'Dancing Script',monospace;
 }
 
 li {
   text-align: center;
   color: black;
-  font: 20px font-family: 'Dancing Script'",monospace;
+  font: 20px font-family: 'Dancing Script',monospace;
 }
 
 .center {
